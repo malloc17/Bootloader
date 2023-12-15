@@ -1,0 +1,2 @@
+receive_message_from_host.c:14:13:receive_message_from_host_polling	24	static
+receive_message_from_host.c:23:13:bootloader_uart_read_data	16	static

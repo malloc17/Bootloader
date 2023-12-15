@@ -1,0 +1,3 @@
+parse_message.c:16:6:download_user_app_sector_to_flash	4	static
+parse_message.c:21:13:parse_erase_message	24	static
+parse_message.c:37:13:parse_write_message	24	static
